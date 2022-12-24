@@ -1,0 +1,40 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="E1E2E93B-02FA-4D77-8502-596F76609EF5" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="5">
+    <control controlID="4F509391-83EE-45C8-896B-BB5E0D7EFC40" controlTypeID="StatusBar(Android)" x="0" y="0" w="375" h="20" zOrder="0"/>
+    <control controlID="74EE2A7A-5381-4860-A477-617B8D57B823" controlTypeID="NavigationBar" x="0" y="617" w="375" h="50" zOrder="1"/>
+    <control controlID="171D95F4-5DBB-418F-9B98-BAE839E2A610" controlTypeID="Shape" x="0" y="20" w="375" h="40" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <selectedIndex>-1</selectedIndex>
+      <dashMode>SdDash</dashMode>
+      <borderMode>[bmRight,bmBottom]</borderMode>
+    </control>
+    <control controlID="7D934D92-6FD8-414A-9689-51AD2BE59782" controlTypeID="Shape" x="0" y="60" w="375" h="30" zOrder="3">
+      <color>4291611852</color>
+      <borderColor>4291611852</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="DF0FF3B6-71EA-432A-B345-C23388084BFB" controlTypeID="Top ActionBar" x="0" y="20" w="375" h="40" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="5E53974F-D238-4E80-AD30-84238903C4B2" linkType="ltPageLink" isApplyIncludePage="False" title="HOMEPAGE">
+          <area shape="0" alt="" ID="{293ED0DB-CFA0-4F38-9AF6-23C3D7995A7D}" coords="(2,0,42,40)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Menu">
+          <area shape="0" alt="" ID="{A1B07DEF-A396-44CE-8E3B-728A05E5642C}" coords="(328,0,368,40)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Stay+Focus</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

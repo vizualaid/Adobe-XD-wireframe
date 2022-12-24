@@ -1,0 +1,150 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="5E53974F-D238-4E80-AD30-84238903C4B2" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="13">
+    <control controlID="BAAC05D7-6477-43B3-9373-F2002819C77F" controlTypeID="StatusBar(Android)" x="0" y="0" w="375" h="20" zOrder="0"/>
+    <control controlID="99E2B583-BD00-43CA-962D-0247CA0AB715" controlTypeID="VerticalTabBar" x="-1" y="60" w="111" h="607" zOrder="1">
+      <borderColor>4292335575</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="5E53974F-D238-4E80-AD30-84238903C4B2" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{0180937A-EAED-4B95-B875-F9790B21C48B}" coords="(0,0,111,25)"/>
+        </link>
+        <link targetPageID="E1E2E93B-02FA-4D77-8502-596F76609EF5" linkType="ltPageLink" isApplyIncludePage="False" title="Timetable">
+          <area shape="0" alt="" ID="{7DA24038-4E46-4211-AEC0-899BC1E59FA8}" coords="(0,24,111,49)"/>
+        </link>
+        <link targetPageID="935F3637-8355-4EF6-991C-73BD32AA0FEC" linkType="ltPageLink" isApplyIncludePage="False" title="Stay+Focused">
+          <area shape="0" alt="" ID="{A2A12A8F-B9B9-4A15-8F04-3E7D756B192D}" coords="(0,48,111,73)"/>
+        </link>
+        <link targetPageID="053F257A-EFC9-4D48-B237-94ECD847343D" linkType="ltPageLink" isApplyIncludePage="False" title="Task+tracker">
+          <area shape="0" alt="" ID="{D2B89415-E0B0-4AF9-A1F9-6135741A9ECF}" coords="(0,72,111,97)"/>
+        </link>
+        <link targetPageID="08372B9C-9A04-47C7-B9B7-2320CCB2A8E4" linkType="ltPageLink" isApplyIncludePage="False" title="Study+with+friends">
+          <area shape="0" alt="" ID="{AEC50AF8-C56A-44E8-BA71-EA067B23B498}" coords="(0,96,111,121)"/>
+        </link>
+        <link targetPageID="5274D5FC-CC8F-473B-A347-3222C0F88FA1" linkType="ltPageLink" isApplyIncludePage="False" title="+Settings">
+          <area shape="0" alt="" ID="{A0D84A5C-9B52-4F29-9F92-FBAAD2EC0E1F}" coords="(0,120,111,145)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Home%2CTimetable%2CStay+Focused%2CTask+tracker%2CStudy+with+friends%2C+Settings</text>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="10D46337-13A3-4490-9CF5-40777F3CD2E5" controlTypeID="Top ActionBar" x="0" y="20" w="375" h="40" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="5E53974F-D238-4E80-AD30-84238903C4B2" linkType="ltPageLink" isApplyIncludePage="False" title="HOMEPAGE">
+          <area shape="0" alt="" ID="{293ED0DB-CFA0-4F38-9AF6-23C3D7995A7D}" coords="(2,0,42,40)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Menu">
+          <area shape="0" alt="" ID="{A1B07DEF-A396-44CE-8E3B-728A05E5642C}" coords="(328,0,368,40)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Homepage</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="98244B8C-10CA-4955-91D2-FF3DFBA9C3A5" controlTypeID="Shape" x="0" y="20" w="120" h="40" zOrder="3">
+      <borderColor>4294967295</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4AD84E17-3982-4CDC-BBB9-DE13210A4132" controlTypeID="Line" x="109" y="61" w="266" h="306" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(134,153)</controlPoint>
+      <startPoint>(1,0)</startPoint>
+      <endPoint>(266,306)</endPoint>
+    </control>
+    <control controlID="64BE431B-733D-4559-BE39-90E80C625E43" controlTypeID="Line" x="111" y="59" w="266" h="306" zOrder="5">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(132,154)</controlPoint>
+      <startPoint>(265,1)</startPoint>
+      <endPoint>(0,306)</endPoint>
+    </control>
+    <control controlID="05EE7D72-22A2-4C91-A30C-D49557830FCC" controlTypeID="Line" x="110" y="365" w="266" h="2" zOrder="6">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(133,1)</controlPoint>
+      <startPoint>(0,1)</startPoint>
+      <endPoint>(266,1)</endPoint>
+      <dashMode>SdDash</dashMode>
+      <isCurved>False</isCurved>
+    </control>
+    <control controlID="F3B77883-FB8E-43E4-AEFB-21CB1B95A284" controlTypeID="Line" x="110" y="366" w="265" h="301" zOrder="7">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(132,150)</controlPoint>
+      <startPoint>(0,0)</startPoint>
+      <endPoint>(265,301)</endPoint>
+    </control>
+    <control controlID="F2690AAD-C110-4044-B03E-D64CAB4A0C25" controlTypeID="Line" x="110" y="365" w="264" h="302" zOrder="8">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(132,152)</controlPoint>
+      <startPoint>(264,1)</startPoint>
+      <endPoint>(0,302)</endPoint>
+    </control>
+    <control controlID="AE4182AE-F301-4637-9306-4B28FEB8D072" controlTypeID="Line" x="109" y="60" w="265" h="2" zOrder="9">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(133,1)</controlPoint>
+      <startPoint>(1,1)</startPoint>
+      <endPoint>(265,1)</endPoint>
+      <dashMode>SdDash</dashMode>
+      <isCurved>False</isCurved>
+    </control>
+    <control controlID="0C3A16B7-96CA-474B-A9F6-1EAE632562A1" controlTypeID="Line" x="110" y="60" w="1" h="610" zOrder="10">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(0,304)</controlPoint>
+      <startPoint>(0,609)</startPoint>
+      <endPoint>(0,0)</endPoint>
+      <dashMode>SdDash</dashMode>
+      <isCurved>False</isCurved>
+    </control>
+    <control controlID="5C0DCFD4-8FE4-4AAF-8BD8-85EF2699C62C" controlTypeID="Line" x="373" y="61" w="2" h="606" zOrder="11">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(0,303)</controlPoint>
+      <startPoint>(1,605)</startPoint>
+      <endPoint>(1,0)</endPoint>
+      <dashMode>SdDash</dashMode>
+      <isCurved>False</isCurved>
+    </control>
+    <control controlID="061E05F8-72BD-46C8-8943-EFFB880B9242" controlTypeID="Line" x="109" y="665" w="266" h="2" zOrder="12">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <controlPoint>(133,1)</controlPoint>
+      <startPoint>(0,1)</startPoint>
+      <endPoint>(266,1)</endPoint>
+      <dashMode>SdDash</dashMode>
+      <isCurved>False</isCurved>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

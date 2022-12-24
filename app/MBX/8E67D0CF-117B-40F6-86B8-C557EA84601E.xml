@@ -1,0 +1,52 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="C56EA64E-7475-409B-B486-AA03D63542C4" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="5">
+    <control controlID="A9643A61-CCDC-460E-8FF6-FC54D8468413" controlTypeID="ProgressBar" x="20" y="111" w="335" h="120" zOrder="0">
+      <borderVisible>False</borderVisible>
+      <trackColor>4293190884</trackColor>
+    </control>
+    <control controlID="E382FD81-E01D-4E45-A6DC-BCCAE22CDFDB" controlTypeID="Shape" x="20" y="251" w="335" h="47" zOrder="1">
+      <borderColor>4288256409</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9AD1C07E-17B9-41F3-AC9A-BE4333092D4C" controlTypeID="Top ActionBar" x="0" y="0" w="375" h="40" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="935F3637-8355-4EF6-991C-73BD32AA0FEC" linkType="ltPageLink" isApplyIncludePage="False" title="stay+focus">
+          <area shape="0" alt="" ID="{293ED0DB-CFA0-4F38-9AF6-23C3D7995A7D}" coords="(2,0,42,40)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Menu">
+          <area shape="0" alt="" ID="{A1B07DEF-A396-44CE-8E3B-728A05E5642C}" coords="(328,0,368,40)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Timetable</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="9091C827-B5A4-45B0-926C-54A127D663DF" controlTypeID="Label" x="50" y="157" w="40" h="27" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>20%25</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A23BED82-9831-4968-8BDE-7A5B9EAE837D" controlTypeID="CircleProgressBar" x="151" y="327" w="60" h="60" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Circular+Progress+Bar</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <thickness>11</thickness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

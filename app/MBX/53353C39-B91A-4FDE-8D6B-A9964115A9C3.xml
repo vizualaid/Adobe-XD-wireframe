@@ -1,0 +1,42 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="53353C39-B91A-4FDE-8D6B-A9964115A9C3" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="3">
+    <control controlID="90B1F2AC-9A48-44DE-A5F2-F1704EF676FB" controlTypeID="Circle" x="128" y="222" w="136" h="141" zOrder="0">
+      <color>4291611852</color>
+      <borderColor>4288256409</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+      <thickness>4</thickness>
+    </control>
+    <control controlID="6EB0D680-913F-4A4B-8370-CD29E9BF71AE" controlTypeID="Label" x="169" y="265" w="53" h="54" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="1036E0EB-E8D4-4CFF-BE18-881050CF791D" linkType="ltPageLink" isApplyIncludePage="False" title="signup">
+          <area shape="0" alt="" ID="{3C944411-D077-42FA-BF43-F983563CF39A}" coords="(0,0,53,54)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>UP</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8A131E32-4822-4220-A3A7-743A63041EAF" controlTypeID="TextArea" x="68" y="383" w="279" h="66" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>All+Productivity+Tools+in+one+App</text>
+      <textSize>16</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

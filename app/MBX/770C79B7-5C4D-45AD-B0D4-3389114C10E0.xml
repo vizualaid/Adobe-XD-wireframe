@@ -1,0 +1,158 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="770C79B7-5C4D-45AD-B0D4-3389114C10E0" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="22">
+    <control controlID="BF2E1021-8B24-45EB-B874-B8DEAD4F3DC2" controlTypeID="Image" x="0" y="0" w="375" h="620" zOrder="0">
+      <URL>AC8C6C737A24353833163144B01C6099.png</URL>
+    </control>
+    <control controlID="903FDDD5-B8BE-4732-A683-4D753161E261" controlTypeID="Shape" x="0" y="64" w="375" h="556" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F840CC38-1346-4117-A1A0-F18E3FECE0B1" controlTypeID="StatusBar(Android)" x="0" y="0" w="375" h="20" zOrder="2"/>
+    <control controlID="70D60737-81F6-4C4D-9D69-2E50DFE3E02A" controlTypeID="Top ActionBar" x="0" y="20" w="375" h="40" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="E1E2E93B-02FA-4D77-8502-596F76609EF5" linkType="ltPageLink" isApplyIncludePage="False" title="timetable">
+          <area shape="0" alt="" ID="{293ED0DB-CFA0-4F38-9AF6-23C3D7995A7D}" coords="(2,0,42,40)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Menu">
+          <area shape="0" alt="" ID="{A1B07DEF-A396-44CE-8E3B-728A05E5642C}" coords="(328,0,368,40)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Edit+sound+notification</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="49412E9B-56D5-4D4A-B15A-1DD914099017" controlTypeID="Shape" x="0" y="60" w="375" h="61" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3DBE6069-7E5B-4644-A6CE-ACAAF6A99F3B" controlTypeID="Shape" x="10" y="268" w="355" h="155" zOrder="5">
+      <color>4292335575</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="A0F7CE3A-B80F-4D90-8074-F9254A3E09B9" controlTypeID="Label" x="20" y="146" w="68" h="19" zOrder="6">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Occurence</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8F5568A3-5B0E-4B56-813D-AF9D8962DC98" controlTypeID="RadioButton" x="20" y="165" w="120" h="36" zOrder="7">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>once</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="304B0EC0-EC62-4A26-9CEA-ED11B7F7D9E9" controlTypeID="Shape" x="10" y="268" w="355" h="57" zOrder="8">
+      <color>4288256409</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="C699707B-25D2-4E96-ACC1-39D8C8B93515" controlTypeID="RadioButton" x="106" y="165" w="120" h="36" zOrder="9">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Snooze</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7E19558E-C425-4BFD-91C0-71DCC0D77536" controlTypeID="Label" x="19" y="227" w="102" h="19" zOrder="10">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Snooze+intervel</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="EA04D066-DF0F-4461-9703-FD17BEA7620F" controlTypeID="Media_Control" x="93" y="329" w="108" h="34" zOrder="11"/>
+    <control controlID="542F27CF-675E-45E5-8CEF-607A0224D58C" controlTypeID="Label" x="20" y="276" w="60" h="19" zOrder="12">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Ringtone</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9146B9F8-0BF1-4A02-96C4-95D6531EEF1A" controlTypeID="Shape" x="169" y="326" w="49" h="51" zOrder="13">
+      <color>4292335575</color>
+      <borderColor>16777215</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <textSize>14</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="95A1C49E-1274-4175-88B9-14C2DEADCDF1" controlTypeID="Icon" x="102" y="298" w="24" h="24" zOrder="14">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61964</iconCode>
+      </icon>
+      <URL>6D1CEB4D1900BF0D10579F08D03B855B.svg</URL>
+    </control>
+    <control controlID="71053F09-173B-4490-8EA0-DDFA5621FE8E" controlTypeID="Shape" x="72" y="326" w="49" h="45" zOrder="15">
+      <color>4292335575</color>
+      <borderColor>16777215</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <textColor>4288256409</textColor>
+      <textSize>14</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1E3B6D2E-D064-4B37-8458-6916F500026A" controlTypeID="Icon" x="184" y="334" w="24" h="24" zOrder="16">
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61985</iconCode>
+      </icon>
+      <URL>996C6DECA92D7E4308C4219DF09D0954.svg</URL>
+    </control>
+    <control controlID="17D8BC9D-A2A5-4046-A586-7E2B498EE8C4" controlTypeID="Label" x="20" y="295" w="79" h="22" zOrder="17">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%5B+loud+trip+%5D</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FEBEEDE3-B6FD-431A-96E3-379A34C98823" controlTypeID="Slider" x="119" y="381" w="182" h="26" zOrder="18"/>
+    <control controlID="C73C92A8-6822-4927-843A-6158CBF9C673" controlTypeID="NumericStepper" x="137" y="217" w="134" h="39" zOrder="19">
+      <color>4288256409</color>
+      <borderColor>4291611852</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>3+min</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F2D5AE1D-15E0-4347-820D-365E4F042833" controlTypeID="Shape" x="11" y="604" w="350" h="57" zOrder="20">
+      <color>4288256409</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="8BE5D6E1-7BD3-47C6-BA07-AD78FED63AAE" controlTypeID="Button" x="126" y="611" w="120" h="48" zOrder="21">
+      <color>16777215</color>
+      <borderColor>6710886</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="E1E2E93B-02FA-4D77-8502-596F76609EF5" linkType="ltPageLink" isApplyIncludePage="False" title="timetable">
+          <area shape="0" alt="" ID="{3153B2CE-B03F-457D-BA40-5A552AAD7835}" coords="(0,0,120,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Done</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,101 @@
+﻿<project version="2.9" name="WIREFRAME" ID="747CD672-43D6-4D6C-9792-C54D7891BC53">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtIOS" pageSize="(375,667)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="True"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="splash" ID="53353C39-B91A-4FDE-8D6B-A9964115A9C3" expanded="True" code="aqur5DQ3Q1" thumbCode="aqur5DQ3Q1" status="psWhite" isfolder="False" isshownode="True">
+      <page name="signup" ID="1036E0EB-E8D4-4CFF-BE18-881050CF791D" expanded="True" code="fnwlpncW7d" thumbCode="fnwlpncW7d" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="349F1E05418B8F168FC29137DDFB1431.svg"/>
+        </images>
+      </page>
+      <page name="login" ID="F2DFB395-9FBC-4F9A-BB6C-3A26E27551DF" expanded="True" code="AZw931TP4U" thumbCode="AZw931TP4U" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="349F1E05418B8F168FC29137DDFB1431.svg"/>
+        </images>
+        <page name="HOMEPAGE" ID="5E53974F-D238-4E80-AD30-84238903C4B2" expanded="True" code="GM1GIJvdjH" thumbCode="GM1GIJvdjH" status="psWhite" isfolder="False" isshownode="True">
+          <page name="timetable" ID="E1E2E93B-02FA-4D77-8502-596F76609EF5" expanded="True" code="MJEzz89seW" thumbCode="MJEzz89seW" status="psWhite" isfolder="False" isshownode="True">
+            <page name="EEDITTIMETABLE" ID="53F8A854-F79E-4B27-AF20-BBE98C9EDD81" expanded="True" code="tep9uG9PDy" thumbCode="6NX9DWarNS" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="2C375AA97B9EC71E39C1AA8D3F8C8674.png"/>
+              </images>
+            </page>
+            <page name="1.2.1.1.2 TODY" ID="C324BDA8-2CED-46A8-AF8B-D01F94531ABA" expanded="True" code="wpMp8AeNfv" thumbCode="wpMp8AeNfv" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="2C375AA97B9EC71E39C1AA8D3F8C8674.png"/>
+              </images>
+            </page>
+            <page name="Page1" ID="770C79B7-5C4D-45AD-B0D4-3389114C10E0" expanded="True" code="FJzZCHVGhK" thumbCode="FJzZCHVGhK" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="6D1CEB4D1900BF0D10579F08D03B855B.svg"/>
+                <image key="996C6DECA92D7E4308C4219DF09D0954.svg"/>
+                <image key="AC8C6C737A24353833163144B01C6099.png"/>
+              </images>
+            </page>
+            <page name="time" ID="C23E98E3-50E8-4F67-A227-8C43AB84CC47" expanded="True" code="UqXJJy5rvD" thumbCode="UqXJJy5rvD" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="E0B7110795F21CCEA51594BE11143F1E.png"/>
+              </images>
+              <page name="Page4" ID="F2EE21D8-6FF1-4216-BE98-4F9290B1F22B" expanded="True" code="SDS6QAknSm" thumbCode="SDS6QAknSm" status="psWhite" isfolder="False" isshownode="True">
+                <images>
+                  <image key="BB1017B93F143D7835384DA41376C737.png"/>
+                </images>
+              </page>
+            </page>
+            <page name="Page" ID="6888B451-A066-4F09-96A7-BEDFE62BD2BE" expanded="True" code="nbvssOZXa5" thumbCode="nbvssOZXa5" status="psWhite" isfolder="False" isshownode="True">
+              <images>
+                <image key="573588E9F8EEEB7B99EB8A4CD47FB113.png"/>
+              </images>
+            </page>
+          </page>
+          <page name="stay focus" ID="935F3637-8355-4EF6-991C-73BD32AA0FEC" expanded="True" code="VRUMP3CVfA" thumbCode="VRUMP3CVfA" status="psWhite" isfolder="False" isshownode="True">
+            <page name="stay focus" ID="6D45044E-5BFB-4AE3-8913-2489711BE848" expanded="True" code="g18iNDf8ux" thumbCode="g18iNDf8ux" status="psWhite" isfolder="False" isshownode="True">
+              <page name="Stay focus1" ID="ECFCDB5A-AFDA-48F2-B995-6F1653A8A1C8" expanded="True" code="xPmZfVolDj" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+              <page name="stay focus1" ID="B1178945-6B06-4161-AF78-47CDE831AFC8" expanded="True" code="LL4wtfP7Cp" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+            </page>
+            <page name="Stay focus1" ID="8E67D0CF-117B-40F6-86B8-C557EA84601E" expanded="True" code="AYj5ddPoH7" thumbCode="AYj5ddPoH7" status="psWhite" isfolder="False" isshownode="True"/>
+            <page name="stay focus1" ID="F959378F-CE78-41C2-BF1E-5BA492C2B4E7" expanded="True" code="llvocgcBkC" thumbCode="llvocgcBkC" status="psWhite" isfolder="False" isshownode="True"/>
+          </page>
+          <page name="task tracker" ID="053F257A-EFC9-4D48-B237-94ECD847343D" expanded="True" code="RH7YFQN6DI" thumbCode="RH7YFQN6DI" status="psWhite" isfolder="False" isshownode="True">
+            <page name="Page" ID="FB01B3FA-271E-40BB-9BE0-8B135C253E0C" expanded="True" code="xwSR6SqxzO" thumbCode="xwSR6SqxzO" status="psWhite" isfolder="False" isshownode="True"/>
+          </page>
+          <page name="study with friends" ID="08372B9C-9A04-47C7-B9B7-2320CCB2A8E4" expanded="True" code="lKc9xVKYZw" thumbCode="lKc9xVKYZw" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="settings" ID="5274D5FC-CC8F-473B-A347-3222C0F88FA1" expanded="True" code="nRESHOCgAw" thumbCode="nRESHOCgAw" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="Page" ID="B548DF16-2A18-4D78-9A1D-EB4AB71D8002" expanded="True" code="CSdb59zo8c" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="Page1" ID="CECB8315-9245-4310-B4CE-44EFA4E01BFE" expanded="True" code="bLpqQpYeeO" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="Page2" ID="C08A21C0-B9E8-4923-94E1-7EB27C4AB788" expanded="True" code="CVmmHuAyGP" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="Page3" ID="8A0A5AFE-2469-4D26-AE91-3C3B84915118" expanded="True" code="WK3ZtIM28K" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+          <page name="1.2.1.10 Page4" ID="EFEFDC6B-CD32-4B48-9FBB-6E837B2F6BE9" expanded="True" code="rJ2CpUqmK5" thumbCode="CnnJKcihsG" status="psWhite" isfolder="False" isshownode="True"/>
+        </page>
+      </page>
+    </page>
+  </pages>
+  <trash>
+    <page name="Home" ID="8D7A4EFF-DD10-4819-8E11-223B4AA76112" expanded="True" code="J5FyUust5A" thumbCode="J5FyUust5A" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page3" ID="96C5CD1E-6955-408F-8D21-64FC8BF245E5" expanded="True" code="8oCUu9XfN2" thumbCode="PgMwz8c3KO" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Stay focus" ID="C56EA64E-7475-409B-B486-AA03D63542C4" expanded="False" code="cAUkkBOeRx" thumbCode="KtabkjxOpW" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page2" ID="39555F87-05FC-492A-9DAE-F6EF1DAE40CD" expanded="True" code="smw5Rpfb6l" thumbCode="aofkdeJtHl" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page4" ID="D72B1BD4-909F-4667-B2A2-AEBF53076FE1" expanded="True" code="le2w16PrqU" thumbCode="gKByW6Vo6N" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page1" ID="AB77ABEC-8B9B-4842-BEA4-2AB5363D6543" expanded="False" code="oPs2CqFpbP" thumbCode="vtA7Mm5Ddj" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page2" ID="257C5C80-88C9-4ED0-B96B-A3E3F8DFF2BF" expanded="False" code="jMnr1Sb2kd" thumbCode="dLUQgp4dEn" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters>
+    <master name="Master" ID="7EF009A5-5E62-4D37-A728-6273F4B5590F" code="ucvLzHo6qK" status="psWhite" createDate="2021-09-22 20:45:10">
+      <refPages/>
+    </master>
+  </masters>
+  <images>
+    <image key="6D1CEB4D1900BF0D10579F08D03B855B.svg"/>
+    <image key="996C6DECA92D7E4308C4219DF09D0954.svg"/>
+    <image key="AC8C6C737A24353833163144B01C6099.png"/>
+    <image key="2C375AA97B9EC71E39C1AA8D3F8C8674.png"/>
+    <image key="349F1E05418B8F168FC29137DDFB1431.svg"/>
+    <image key="E0B7110795F21CCEA51594BE11143F1E.png"/>
+    <image key="BB1017B93F143D7835384DA41376C737.png"/>
+    <image key="573588E9F8EEEB7B99EB8A4CD47FB113.png"/>
+  </images>
+</project>

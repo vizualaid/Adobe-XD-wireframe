@@ -1,0 +1,65 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="53F8A854-F79E-4B27-AF20-BBE98C9EDD81" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="7">
+    <control controlID="C791C1FB-A545-40F5-A6AB-461EE03151F8" controlTypeID="Image" x="0" y="10" w="375" h="667" zOrder="0">
+      <URL>2C375AA97B9EC71E39C1AA8D3F8C8674.png</URL>
+    </control>
+    <control controlID="C5FF9EA7-94A8-4593-AF59-FF786AB4F1AA" controlTypeID="Top ActionBar" x="0" y="25" w="375" h="40" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="E1E2E93B-02FA-4D77-8502-596F76609EF5" linkType="ltPageLink" isApplyIncludePage="False" title="timetable">
+          <area shape="0" alt="" ID="{293ED0DB-CFA0-4F38-9AF6-23C3D7995A7D}" coords="(2,0,42,40)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Menu">
+          <area shape="0" alt="" ID="{A1B07DEF-A396-44CE-8E3B-728A05E5642C}" coords="(328,0,368,40)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Edit+Timetable</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="78566800-BCCC-4878-BFD8-C6012793A120" controlTypeID="StatusBar(Android)" x="0" y="0" w="375" h="20" zOrder="2"/>
+    <control controlID="88DF9D40-7160-4A0A-B999-EA1F4D805B04" controlTypeID="Shape" x="11" y="604" w="350" h="57" zOrder="3">
+      <color>4288256409</color>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="11801EC1-1A54-419E-BB38-63661619FBB1" controlTypeID="VRule" x="176" y="604" w="12" h="57" zOrder="4"/>
+    <control controlID="783AD5D4-0B69-4F01-8E6D-E3881012F427" controlTypeID="Button" x="35" y="608" w="120" h="48" zOrder="5">
+      <color>16777215</color>
+      <borderColor>6710886</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="E1E2E93B-02FA-4D77-8502-596F76609EF5" linkType="ltPageLink" isApplyIncludePage="False" title="timetable">
+          <area shape="0" alt="" ID="{3153B2CE-B03F-457D-BA40-5A552AAD7835}" coords="(0,0,120,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Done</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7D9DE59F-430B-4B05-BAE3-ABE013D21175" controlTypeID="Button" x="209" y="608" w="120" h="48" zOrder="6">
+      <color>16777215</color>
+      <borderColor>6710886</borderColor>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="53F8A854-F79E-4B27-AF20-BBE98C9EDD81" linkType="ltPageLink" isApplyIncludePage="False" title="EEDITTIMETABLE">
+          <area shape="0" alt="" ID="{922BB530-7B79-4083-A36E-6125A182FEDD}" coords="(0,0,120,48)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Add+More</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

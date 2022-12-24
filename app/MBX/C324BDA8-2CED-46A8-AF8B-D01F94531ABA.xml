@@ -1,0 +1,45 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="53F8A854-F79E-4B27-AF20-BBE98C9EDD81" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="5">
+    <control controlID="C791C1FB-A545-40F5-A6AB-461EE03151F8" controlTypeID="Image" x="0" y="10" w="375" h="667" zOrder="0">
+      <URL>2C375AA97B9EC71E39C1AA8D3F8C8674.png</URL>
+    </control>
+    <control controlID="C5FF9EA7-94A8-4593-AF59-FF786AB4F1AA" controlTypeID="Top ActionBar" x="0" y="25" w="375" h="40" zOrder="1">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="E1E2E93B-02FA-4D77-8502-596F76609EF5" linkType="ltPageLink" isApplyIncludePage="False" title="timetable">
+          <area shape="0" alt="" ID="{293ED0DB-CFA0-4F38-9AF6-23C3D7995A7D}" coords="(2,0,42,40)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Menu">
+          <area shape="0" alt="" ID="{A1B07DEF-A396-44CE-8E3B-728A05E5642C}" coords="(328,0,368,40)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Edit+Timetable+for+Perticular+Date</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+    <control controlID="78566800-BCCC-4878-BFD8-C6012793A120" controlTypeID="StatusBar(Android)" x="0" y="0" w="375" h="20" zOrder="2"/>
+    <control controlID="07EB3D44-EB71-43DF-BB2B-8C76F85434E5" controlTypeID="DateTimePicker" x="16" y="305" w="342" h="49" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>03+%2F+10+%2F+2014</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AAB5E35B-6922-4628-9111-1194DF39CCC2" controlTypeID="Shape" x="235" y="272" w="120" h="28" zOrder="4">
+      <color>4293914607</color>
+      <borderColor>6710886</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textColor>4293914607</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
