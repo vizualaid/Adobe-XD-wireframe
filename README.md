@@ -1,7 +1,9 @@
-﻿Preview tips
-
-1. Extract the file 1. and open index.html
-2. The index.html file can be opened directly in local browser. This method is recommended for local preview.
+﻿ LINK:
+ [ https://xd.adobe.com/view/ccfce5e1-4fcf-4eab-bb57-c085c074258d-99af/](https://xd.adobe.com/view/ccfce5e1-4fcf-4eab-bb57-c085c074258d-99af/screen/c7829b6c-1aec-4c67-a0bc-47311c5152b2?fullscreen)
+ 
+ 
+<!-- 1. open index.html
+2. The index.html file can be opened directly in local browser. This method is recommended for local preview. -->
 
 ![Artboard – 1](https://user-images.githubusercontent.com/74894810/209444293-0cf42a64-a9ad-478d-9e6f-a81bf296fbeb.png)
 ![home](https://user-images.githubusercontent.com/74894810/209444302-54079f91-eddf-4177-9d51-f488941232d3.png)
